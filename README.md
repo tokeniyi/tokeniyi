@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Treasure Okeniyi
 
-<!--
-**tokeniyi/tokeniyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer & Full-Stack Developer in Training
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Machine Learning Fundamentals
+- AI Systems Engineering
+- Full-Stack AI Applications
+- MLOps & Scalable Systems
+
+---
+
+## Learning Repositories
+- ml-from-scratch
+- optimization-lab
+- transformers-from-scratch
+
+---
+
+## Production Projects
+- ai-study-assistant
+- ai-resume-builder
+- rag-chatbot
+
+---
+
+## Tech Stack
+Python • PyTorch • FastAPI • Next.js • PostgreSQL
+
+---
+
+## Current Goals
+- Build production AI systems
+- Learn distributed inference
+- Create deployable SaaS applications
