@@ -1,117 +1,79 @@
-# 👋 Treasure Okeniyi
+# 👋 Hi, I'm Treasure (tokeniyi)
 
-**AI Engineer & Full-Stack Developer** | ML Systems | Scalable AI Applications
-
-I'm passionate about building production-grade AI systems and exploring the intersection of machine learning, software engineering, and cloud infrastructure. Currently focused on learning deep learning fundamentals, systems design, and deploying AI solutions at scale.
+> AI Engineer & Full-Stack Developer — building practical ML systems, production-ready bots, and clean mobile templates.
 
 ---
 
-## 🎯 About Me
+## 🔭 Featured projects
 
-I'm an AI engineer in training with a strong foundation in **full-stack development**. My work spans:
-- **Machine Learning & AI**: Building ML models from first principles, understanding transformers, and implementing optimization algorithms
-- **Full-Stack Development**: Creating end-to-end applications with modern tech stacks
-- **Systems Engineering**: Designing scalable architectures for AI workloads
-- **Production Deployment**: MLOps, containerization, and cloud infrastructure
+- **Packitbot** — https://github.com/tokeniyi/Packitbot
+  - Async Telegram logistics & delivery management bot
+  - Tech: Python, aiogram 3.x, SQLAlchemy 2.0
+  - Status: Active (recent commits)
 
-My philosophy: *Learn deeply by building from scratch, then scale with production best practices.*
+- **school-delivery-bot1** — https://github.com/tokeniyi/school-delivery-bot1
+  - Telegram bot for coordinating school deliveries and routes
+  - Tech: Python
+  - Status: Active (issues tracker enabled)
 
----
+- **AttendanceMaster** — https://github.com/tokeniyi/AttendanceMaster
+  - Attendance management system (full-stack)
+  - Tech: TypeScript, Node.js
+  - Status: Active (in development)
 
-## 📚 Current Learning Journey
+- **gpt-oss** — https://github.com/tokeniyi/gpt-oss
+  - Collection and notes around open-weight language models (gpt-oss-120b, gpt-oss-20b)
+  - Tech: model configs / research-oriented
+  - License: Apache-2.0
 
-### 🤖 ML & AI Fundamentals
-- **[ml-from-scratch](https://github.com/tokeniyi/ml-from-scratch)** - Implementing ML algorithms and techniques from the ground up to develop strong intuitions
-- **[transformers-from-scratch](https://github.com/tokeniyi/transformers-from-scratch)** - Building transformer architectures and self-attention mechanisms to understand modern NLP
-- **[learning-python](https://github.com/tokeniyi/learning-python)** - Core Python fundamentals and best practices for data science
+- **flutter_ecommerce_template** — https://github.com/tokeniyi/flutter_ecommerce_template
+  - Minimalist eCommerce UI template for Flutter
+  - Tech: Flutter / Dart
+  - License: MIT — Demo: https://lnk.bio/9dQ4
 
-### What I'm Learning
-- Deep dive into transformer architectures and attention mechanisms
-- Optimization algorithms and hyperparameter tuning
-- Distributed training and inference
-- Building scalable ML pipelines
-- Advanced Python for scientific computing
-
----
-
-## 💼 Production Projects & Active Work
-
-### 🎓 [AttendanceMaster](https://github.com/tokeniyi/AttendanceMaster) **[In Development]**
-**TypeScript | Full-Stack Application**
-
-A modern attendance management system demonstrating full-stack capabilities. This project showcases:
-- Frontend development with TypeScript
-- Backend API design
-- Database integration and management
-- Real-world application architecture
-
-**Focus**: Building production-ready systems with clean code and scalable design patterns.
+- Educational series
+  - **ml-from-scratch** — core ML algorithms implemented from first principles (Python)
+  - **transformers-from-scratch** — transformers and self-attention experiments (Python)
+  - **learning-python** — notes and small projects while learning Python
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech stack & tools
 
-**Languages**: Python • TypeScript • JavaScript
-
-**ML/AI**: PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas
-
-**Backend**: FastAPI • Node.js • Express
-
-**Frontend**: Next.js • React • TailwindCSS
-
-**Databases**: PostgreSQL • MongoDB
-
-**DevOps/Infrastructure**: Docker • Git • GitHub Actions
+- Languages: Python • TypeScript • Dart (Flutter)
+- ML / Research: PyTorch, NumPy, Pandas, experimental work with open models
+- Bot frameworks: aiogram (Telegram bots)
+- Backend / APIs: FastAPI, Node.js
+- Databases / ORM: PostgreSQL, SQLAlchemy
+- Mobile: Flutter (Dart)
+- DevOps / infra: Docker, GitHub Actions
+- Licenses used: MIT, Apache-2.0
 
 ---
 
-## 🚀 Short-Term Goals (Next 3-6 Months)
+## 🎯 Current focus areas
 
-- ✅ Master machine learning fundamentals and transformer architecture
-- ✅ Complete end-to-end ML projects with real datasets
-- 🔄 Build and deploy an AI-powered SaaS application
-- 📊 Develop MLOps pipeline with CI/CD for ML models
-- 🤝 Contribute to open-source ML/AI projects
-
----
-
-## 🎯 Long-Term Vision (6-12 Months+)
-
-- 🏗️ Design and implement scalable distributed ML systems
-- 🌐 Create production AI applications with real user impact
-- 📈 Specialize in MLOps and model deployment at scale
-- 🔬 Research and experiment with cutting-edge AI techniques
-- 💡 Build tools that make AI development more accessible and efficient
+- Building reliable, async-first Telegram bots for logistics and delivery workflows
+- Experimenting with open-weight LLMs and reproducible model tooling
+- Implementing transformers and core ML building blocks from scratch to deepen intuition
+- Creating reusable Flutter UI templates and improving developer-facing docs
+- Improving project documentation and onboarding for open-source contributions
 
 ---
 
-## 📖 Learning Philosophy
+## 📌 How to explore my work
 
-I believe in:
-1. **Building from scratch** - Understanding fundamentals by implementing algorithms myself
-2. **Learning by doing** - Real projects over tutorials
-3. **Production mindset** - Code should be scalable and maintainable from day one
-4. **Continuous improvement** - Regular iteration and refactoring based on new learnings
-5. **Knowledge sharing** - Open-source and documentation-focused development
+1. Start with the bots: Packitbot and school-delivery-bot1 for production-focused async systems.
+2. Explore ML fundamentals in ml-from-scratch and transformers-from-scratch.
+3. Check AttendanceMaster for a full-stack TypeScript example and flutter_ecommerce_template for mobile UI.
 
 ---
 
-## 🔗 Let's Connect
+## 📬 Connect & collaborate
 
-- **GitHub**: [@tokeniyi](https://github.com/tokeniyi)
-- **Interested in collaborating?** Feel free to open issues, submit PRs, or discuss ideas!
-
----
-
-## 📈 Repository Guide
-
-| Repository | Status | Focus | Tech Stack |
-|-----------|--------|-------|-----------|
-| **ml-from-scratch** | 🆕 In Progress | ML fundamentals & algorithms | Python |
-| **transformers-from-scratch** | 🆕 In Progress | Transformer architecture & NLP | Python |
-| **learning-python** | 🆕 In Progress | Python fundamentals | Python |
-| **AttendanceMaster** | 🔄 Active Development | Full-stack application | TypeScript/Node.js |
+- GitHub: [@tokeniyi](https://github.com/tokeniyi)
+- Open issues or PRs on any repository to start a discussion or propose changes.
 
 ---
 
-**Last Updated**: May 2026 | *Actively learning and building* 🚀
+_Last updated: 2026-08-03_
