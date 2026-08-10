@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Treasure (tokeniyi)
+# 👋 Hi, I'm Treasure Okeniyi (tokeniyi)
 
 > AI Engineer & Full-Stack Developer — building practical ML systems, production-ready bots, and clean mobile templates.
 
