@@ -11,7 +11,7 @@
   - Tech: Python, aiogram 3.x, SQLAlchemy 2.0
   - Status: Active (recent commits)
  
-- **Zoid Jerseys Backend** — https://github.com/tokeniyi/zoid-backend
+- **Zoid Jerseys Backend** — https://github.com/tokeniyi/Zoid-ecommerce-backend
   - Ecommerce backend for jersey/apparel store with modular hexagonal architecture
   - Tech: Python 3.14, FastAPI 0.141, SQLAlchemy 2.0, PostgreSQL (asyncpg), Pydantic 2, Alembic
   - Auth: Argon2, JWT sessions, RBAC (user/admin), rate limiting (Redis)
