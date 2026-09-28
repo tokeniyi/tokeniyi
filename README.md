@@ -10,6 +10,15 @@
   - Async Telegram logistics & delivery management bot
   - Tech: Python, aiogram 3.x, SQLAlchemy 2.0
   - Status: Active (recent commits)
+ 
+- **Zoid Jerseys Backend** — https://github.com/tokeniyi/zoid-backend
+  - Ecommerce backend for jersey/apparel store with modular hexagonal architecture
+  - Tech: Python 3.14, FastAPI 0.141, SQLAlchemy 2.0, PostgreSQL (asyncpg), Pydantic 2, Alembic
+  - Auth: Argon2, JWT sessions, RBAC (user/admin), rate limiting (Redis)
+  - Payments: Provider-agnostic gateway abstraction — Paystack & Stripe adapters
+  - Storage: Cloudinary & S3 (boto3) behind unified interface
+  - Email: Resend adapter behind notification interface
+  - Status: Active (recent commits)
 
 - **school-delivery-bot1** — https://github.com/tokeniyi/school-delivery-bot1
   - Telegram bot for coordinating school deliveries and routes
