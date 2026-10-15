@@ -4,77 +4,88 @@
 
 ---
 
-## 🔭 Featured projects
+## 🔭 Featured Projects
 
-- **Packitbot** — https://github.com/tokeniyi/Packitbot
-  - Async Telegram logistics & delivery management bot
+- **Packitbot**
+  - Async Telegram logistics and delivery management bot
   - Tech: Python, aiogram 3.x, SQLAlchemy 2.0
-  - Status: Active (recent commits)
- 
-- **Zoid Jerseys Backend** — https://github.com/tokeniyi/Zoid-ecommerce-backend
-  - Ecommerce backend for jersey/apparel store with modular hexagonal architecture
+  - Status: Active
+
+- **Zoid Jerseys Backend**
+  - E-commerce backend for a jersey and apparel store, built with modular hexagonal architecture
   - Tech: Python 3.14, FastAPI 0.141, SQLAlchemy 2.0, PostgreSQL (asyncpg), Pydantic 2, Alembic
   - Auth: Argon2, JWT sessions, RBAC (user/admin), rate limiting (Redis)
-  - Payments: Provider-agnostic gateway abstraction — Paystack & Stripe adapters
-  - Storage: Cloudinary & S3 (boto3) behind unified interface
-  - Email: Resend adapter behind notification interface
-  - Status: Active (recent commits)
+  - Payments: Provider-agnostic gateway abstraction with Paystack and Stripe adapters
+  - Storage: Cloudinary and S3 (boto3) behind a unified interface
+  - Email: Resend adapter behind a notification interface
+  - Status: Active
 
-- **school-delivery-bot1** — https://github.com/tokeniyi/school-delivery-bot1
+- **school-delivery-bot1**
   - Telegram bot for coordinating school deliveries and routes
   - Tech: Python
-  - Status: Active (issues tracker enabled)
+  - Status: Active
 
-- **AttendanceMaster** — https://github.com/tokeniyi/AttendanceMaster
-  - Attendance management system (full-stack)
+- **AttendanceMaster**
+  - Full-stack attendance management system
   - Tech: TypeScript, Node.js
-  - Status: Active (in development)
+  - Status: In development
 
-- **gpt-oss** — https://github.com/tokeniyi/gpt-oss
-  - Collection and notes around open-weight language models (gpt-oss-120b, gpt-oss-20b)
-  - Tech: model configs / research-oriented
+- **gpt-oss**
+  - Collection of resources and notes on open-weight language models, including gpt-oss-120b and gpt-oss-20b
+  - Tech: Model configurations and research-oriented tooling
   - License: Apache-2.0
 
-- **flutter_ecommerce_template** — https://github.com/tokeniyi/flutter_ecommerce_template
-  - Minimalist eCommerce UI template for Flutter
-  - Tech: Flutter / Dart
-  - License: MIT — Demo: https://lnk.bio/9dQ4
+- **flutter_ecommerce_template**
+  - Minimalist e-commerce UI template for Flutter
+  - Tech: Flutter, Dart
+  - License: MIT
+  - Demo: *To be added*
 
-- Educational series
-  - **ml-from-scratch** — core ML algorithms implemented from first principles (Python)
-  - **transformers-from-scratch** — transformers and self-attention experiments (Python)
-  - **learning-python** — notes and small projects while learning Python
-
----
-
-## 🛠 Tech stack & tools
-
-- Languages: Python • TypeScript • Dart (Flutter)
-- ML / Research: PyTorch, NumPy, Pandas, experimental work with open models
-- Bot frameworks: aiogram (Telegram bots)
-- Backend / APIs: FastAPI, Node.js
-- Databases / ORM: PostgreSQL, SQLAlchemy
-- Mobile: Flutter (Dart)
-- DevOps / infra: Docker, GitHub Actions
-- Licenses used: MIT, Apache-2.0
+- **Educational Projects**
+  - **ml-from-scratch** — Core machine learning algorithms implemented from first principles in Python
+  - **transformers-from-scratch** — Transformer architecture and self-attention experiments in Python
+  - **learning-python** — Notes and small projects while learning Python
 
 ---
 
-## 🎯 Current focus areas
+## 🛠 Tech Stack & Tools
 
-- Building reliable, async-first Telegram bots for logistics and delivery workflows
+- **Languages:** Python, TypeScript, Dart
+- **ML & Research:** PyTorch, NumPy, Pandas, open-weight language models
+- **Bot Frameworks:** aiogram, Telegram Bot API
+- **Backend & APIs:** FastAPI, Node.js
+- **Databases & ORM:** PostgreSQL, SQLAlchemy
+- **Mobile Development:** Flutter, Dart
+- **DevOps & Infrastructure:** Docker, GitHub Actions
+- **Licenses:** MIT, Apache-2.0
+
+---
+
+## 🎯 Current Focus Areas
+
+- Building reliable, asynchronous Telegram bots for logistics and delivery workflows
 - Experimenting with open-weight LLMs and reproducible model tooling
-- Implementing transformers and core ML building blocks from scratch to deepen intuition
-- Creating reusable Flutter UI templates and improving developer-facing docs
+- Implementing transformers and core machine learning components from scratch
+- Creating reusable Flutter UI templates and improving developer documentation
 - Improving project documentation and onboarding for open-source contributions
 
 ---
 
-## 📌 How to explore my work
+## 📌 Explore My Work
 
-1. Start with the bots: Packitbot and school-delivery-bot1 for production-focused async systems.
-2. Explore ML fundamentals in ml-from-scratch and transformers-from-scratch.
-3. Check AttendanceMaster for a full-stack TypeScript example and flutter_ecommerce_template for mobile UI.
+1. Start with **Packitbot** and **school-delivery-bot1** to explore asynchronous bot development for logistics and delivery workflows.
+2. Explore **ml-from-scratch** and **transformers-from-scratch** to see my work on machine learning fundamentals.
+3. Check out **AttendanceMaster** for a full-stack TypeScript project and **flutter_ecommerce_template** for mobile UI development.
 
 ---
 
+## 📬 Connect & Collaborate
+
+- **GitHub:** [@tokeniyi](https://github.com/tokeniyi)
+- **Email:** [tokeniyi.2403702@stu.cu.edu.ng](mailto:tokeniyi.2403702@stu.cu.edu.ng)
+
+Feel free to reach out by email to discuss projects, software development, collaboration, or other professional opportunities. You can also open an issue or submit a pull request on any repository to start a discussion.
+
+---
+
+_Last updated: 2026-10-15_
