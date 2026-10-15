@@ -78,11 +78,3 @@
 
 ---
 
-## 📬 Connect & collaborate
-
-- GitHub: [@tokeniyi](https://github.com/tokeniyi)
-- Open issues or PRs on any repository to start a discussion or propose changes.
-
----
-
-_Last updated: 2026-09-15_
