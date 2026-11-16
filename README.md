@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Treasure Okeniyi (tokeniyi)
+👋 Hi, I'm Treasure Okeniyi (tokeniyi) — AI Engineer & Full-Stack Developer — building practical ML systems, production-ready bots, and full-stack web platforms.
 
-> AI Engineer & Full-Stack Developer — building practical ML systems, production-ready bots, and clean mobile templates.
+I build Telegram bots, backends and web apps that solve concrete problems for logistics teams, online stores and students.
 
 ---
 
@@ -19,6 +19,21 @@
   - Storage: Cloudinary and S3 (boto3) behind a unified interface
   - Email: Resend adapter behind a notification interface
   - Status: Active
+
+- **[Biblical E-commerce Website](https://github.com/tokeniyi/Biblical-E-commerce-website)**
+  - Full-stack e-commerce platform
+  - Tech: TypeScript, Next.js, NestJS, PostgreSQL, Prisma
+  - Status: Active
+
+- **[ease](https://github.com/tokeniyi/ease)**
+  - Course videos organized by level, semester, course and week for Covenant University engineering students
+  - Tech: TypeScript
+  - Status: Active
+
+- **[telegram-ai-assessment-bot](https://github.com/tokeniyi/telegram-ai-assessment-bot)**
+  - Telegram bot that turns uploaded PDFs and study materials into AI-generated quizzes, grades responses and reports performance analytics
+  - Tech: Python
+  - Status: In development
 
 - **school-delivery-bot1**
   - Telegram bot for coordinating school deliveries and routes
@@ -53,8 +68,9 @@
 - **Languages:** Python, TypeScript, Dart
 - **ML & Research:** PyTorch, NumPy, Pandas, open-weight language models
 - **Bot Frameworks:** aiogram, Telegram Bot API
-- **Backend & APIs:** FastAPI, Node.js
-- **Databases & ORM:** PostgreSQL, SQLAlchemy
+- **Backend & APIs:** FastAPI, NestJS, Node.js
+- **Frontend:** Next.js
+- **Databases & ORM:** PostgreSQL, SQLAlchemy, Prisma
 - **Mobile Development:** Flutter, Dart
 - **DevOps & Infrastructure:** Docker, GitHub Actions
 - **Licenses:** MIT, Apache-2.0
@@ -88,4 +104,4 @@ Feel free to reach out by email to discuss projects, software development, colla
 
 ---
 
-_Last updated: 2026-10-15_
+_Last updated: 2026-11-16_
